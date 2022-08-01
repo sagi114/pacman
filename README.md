@@ -1,2 +1,2 @@
 # pacman
-first game i made on c#
+first game I made on c#
